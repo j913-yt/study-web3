@@ -1,0 +1,19 @@
+{
+  "name": "web3_tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@chainlink/contracts": "^1.4.0",
+    "@chainlink/env-enc": "^1.0.5",
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@nomiclabs/hardhat-etherscan": "^3.1.8",
+    "dotenv": "^17.2.2",
+    "hardhat": "^2.26.3"
+  }
+}
